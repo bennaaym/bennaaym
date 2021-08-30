@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- I'm a computer engineering student
+
+- I'm interested in : 
+
+  * Web Development
+  * Computer Design
+  * Programming Languages Theory (PLT)
+  * Machine Learning (ML)
+  * Data Analysis
+
+
+
+
+
