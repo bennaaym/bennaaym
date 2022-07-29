@@ -1,27 +1,8 @@
-<div align="left">
-  <img align="center" src="https://i.ibb.co/w6yrP1Q/9c88601a59be413a5b9f8575e39605a5.jpg" alt="bennaaym_profile"/>
-</div>
 <p>
   <h1 align="left" style="color:#fff">
-    <b>Hey there 👋, I'm <a href="https://github.com/bennaaym" target="_blank">@Aymen</a></b>
+    <b>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://github.com/bennaaym" target="_blank">@Aymen</a></b>
   </h1>
 </p>
-
-```yaml
-I am: [CE Student 👨‍🎓, Full Stack Developer 💻]
-Pronouns: [He, Him]
-Languages: [TypeScript, JavaScript, Python]
-```
-
----
-
-<p align="left">
- <a href="https://github.com/bennaaym" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bennaaym&show_icons=true&hide_border=true&line_height=20&title_color=e2a121&icon_color=e2a121&show_owner=true&theme=github_dark&custom_title=Profile Stats"/>
-  </a>
-</p>
-
----
 
 <p align="left">
   <a href="https://github.com/bennaaym" target="_blank">
@@ -33,4 +14,38 @@ Languages: [TypeScript, JavaScript, Python]
   <a href="https://github.com/bennaaym" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=bennaaym&label=visitors&color=211F1F&style=flat" />
   </a>
+</p>
+
+---
+
+<div align="left">
+  <img align="center" src="https://i.ibb.co/w6yrP1Q/9c88601a59be413a5b9f8575e39605a5.jpg" alt="bennaaym_profile"/>
+</div>
+
+```yaml
+## about.yaml
+I am: [CE Student 👨‍🎓, Full Stack Developer 💻]
+Pronouns: [He, Him]
+```
+
+```yaml
+## core-skills.yaml
+Languages: [TypeScript, JavaScript, Python]
+Frontend: [React, React Native, Redux, Tailwind CSS, MUI]
+Backend: [Node.js, Express.js, NestJS, Apollo GraphQL, Flask]
+Database: [MongoDB, PostgreSQL, MySQL, Firestore]
+others: [AWS, Firebase, Docker]
+```
+
+---
+
+<p align="left">
+ <a href="https://github.com/bennaaym" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bennaaym&show_icons=true&hide_border=true&line_height=20&title_color=e2a121&icon_color=e2a121&show_owner=true&theme=github_dark&custom_title=Profile Stats"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/bennaaym">
+  <img alt="contribution_graph" src="https://activity-graph.herokuapp.com/graph?custom_title=Contribution Graph&username=bennaaym&bg_color=131723&color=e2a121&line=e2a121&point=e2a121"/>
+</a>
 </p>
