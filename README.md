@@ -21,20 +21,22 @@
 <div align="left">
   <img align="center" src="https://i.ibb.co/w6yrP1Q/9c88601a59be413a5b9f8575e39605a5.jpg" alt="bennaaym_profile"/>
 </div>
+<br/>
+<br/>
 
 ```yaml
 ## about.yaml
-I am: [CE Student 👨‍🎓, Full Stack Developer 💻]
+I am: [Senior CE Student 👨‍🎓, Full Stack Developer 💻]
 Pronouns: [He, Him]
 ```
 
 ```yaml
-## core-skills.yaml
+## skills.yaml
 Languages: [TypeScript, JavaScript, Python]
 Frontend: [React, React Native, Redux, Tailwind CSS, MUI]
 Backend: [Node.js, Express.js, NestJS, Apollo GraphQL, Flask]
 Database: [MongoDB, PostgreSQL, MySQL, Firestore]
-others: [AWS, Firebase, Docker]
+other tools: [Git, Docker, Firebase, AWS]
 ```
 
 ---
