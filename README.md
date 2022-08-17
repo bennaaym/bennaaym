@@ -43,7 +43,7 @@ other tools: [Git, Docker, Firebase, AWS]
 
 <p align="left">
   <a href="https://github.com/bennaaym" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bennaaym&show_icons=true&hide_border=true&line_height=20&title_color=e2a121&icon_color=e2a121&show_owner=true&theme=github_dark&custom_title=Profile Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bennaaym&show_icons=true&hide_border=true&line_height=20&title_color=e2a121&icon_color=e2a121&show_owner=true&theme=github_dark&custom_title=Stats"/>
   </a>
   <br/>
   <br/>
