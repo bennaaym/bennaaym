@@ -48,6 +48,6 @@ other tools: [Git, Docker, Firebase, AWS]
   <br/>
   <br/>
   <a href="https://github.com/bennaaym">
-    <img alt="contribution_graph" src="https://activity-graph.herokuapp.com/graph?&username=bennaaym&bg_color=131723&color=e2a121&line=e2a121&point=e2a121"/>
+    <img alt="contribution_graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bennaaym&bg_color=131723&color=e2a121&line=e2a121&point=e2a121"/>
   </a>
 </p>
