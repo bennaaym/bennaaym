@@ -26,17 +26,17 @@
 
 ```yaml
 ## about.yaml
-I am: [Senior CE Student 👨‍🎓, Full Stack Developer 💻, OSS]
+I am: [Senior CE Student 👨‍🎓, Full Stack Developer 💻]
 Pronouns: [He, Him]
 ```
 
 ```yaml
 ## skills.yaml
-Languages: [TypeScript, JavaScript, Python]
-Frontend: [React, React Native, Redux, Tailwind CSS, MUI]
-Backend: [Node.js, Express.js, NestJS, Apollo GraphQL, Flask]
-Database: [MongoDB, PostgreSQL, MySQL, Firestore]
-other tools: [Git, Docker, Firebase, AWS]
+Languages: [JavaScript, TypeScript, Python]
+Frontend: [React, React Native, Redux]
+Backend: [Node.js, Express.js, NestJS, Apollo GraphQL, Flask, FastAPI]
+Database: [MongoDB, PostgreSQL]
+other: [Git, Docker, Kubernetes, Firebase, AWS, TDD, CI/CD]
 ```
 
 ---
