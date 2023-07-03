@@ -26,16 +26,15 @@
 
 ```yaml
 ## about.yaml
-I am: [Senior CE Student 👨‍🎓, Full Stack Developer 💻]
-Pronouns: [He, Him]
+I am: [Full Stack Developer 💻, Senior CE Student 👨‍🎓]
 ```
 
 ```yaml
 ## skills.yaml
 Languages: [JavaScript, TypeScript, Python]
-Frontend: [React, React Native, Redux]
+Frontend: [React, React Native, Chakra UI, MUI, Tailwind CSS]
 Backend: [Node.js, Express.js, NestJS, Apollo GraphQL, Flask, FastAPI]
-Database: [MongoDB, PostgreSQL]
+Database: [MongoDB, PostgreSQL, Firestore]
 other: [Git, Docker, Kubernetes, Firebase, AWS, TDD, CI/CD]
 ```
 
@@ -44,10 +43,5 @@ other: [Git, Docker, Kubernetes, Firebase, AWS, TDD, CI/CD]
 <p align="left">
   <a href="https://github.com/bennaaym" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bennaaym&show_icons=true&hide_border=true&line_height=20&title_color=e2a121&icon_color=e2a121&show_owner=true&theme=github_dark&custom_title=Stats"/>
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/bennaaym">
-    <img alt="contribution_graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bennaaym&bg_color=131723&color=e2a121&line=e2a121&point=e2a121"/>
   </a>
 </p>
