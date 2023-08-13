@@ -26,7 +26,7 @@
 
 ```yaml
 ## about.yaml
-I am: [Full Stack Developer 💻, Senior CE Student 👨‍🎓]
+I am: [Full Stack Developer 💻]
 ```
 
 ```yaml
